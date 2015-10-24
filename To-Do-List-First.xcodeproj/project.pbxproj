@@ -159,6 +159,8 @@
 		9C47F7771BA7437F00CB2CA3 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0700;
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = "Sahejvir Locham";
 				TargetAttributes = {
@@ -415,6 +417,7 @@
 				9C47F7A21BA7438000CB2CA3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9C47F7A31BA7438000CB2CA3 /* Build configuration list for PBXNativeTarget "To-Do-List-FirstTests" */ = {
 			isa = XCConfigurationList;
@@ -423,6 +426,7 @@
 				9C47F7A51BA7438000CB2CA3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
